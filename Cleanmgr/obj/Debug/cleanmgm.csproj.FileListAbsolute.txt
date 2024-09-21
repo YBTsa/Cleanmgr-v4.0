@@ -1,0 +1,14 @@
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\bin\Debug\Cleanmgr.exe.config
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\bin\Debug\Cleanmgr.exe
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\bin\Debug\Cleanmgr.pdb
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\cleanmgm.csproj.AssemblyReference.cache
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\Cleanmgr.cleanmgrm.resources
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\Cleanmgr.link.resources
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\Cleanmgr.Properties.Resources.resources
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\cleanmgm.csproj.GenerateResource.cache
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\cleanmgm.csproj.CoreCompileInputs.cache
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\Cleanmgr.exe
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\Cleanmgr\Cleanmgr\obj\Debug\Cleanmgr.pdb
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\debug\Cleanmgr.exe.config
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\debug\Cleanmgr.exe
+D:\system-files\desktop\Cleanmgr-2024\cleanmgr-v4.0\debug\Cleanmgr.pdb
