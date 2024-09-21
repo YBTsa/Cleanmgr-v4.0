@@ -1,2 +1,2 @@
 # Cleanmgr-v4.0
-Windows cleanmgr tools
+Cleanmgr-v3.0 has been discontinued, please use Cleanmgr-v4.0 for the latest support.
